@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/dark-portfolio-landing/static/css/main.b46f6ad8.chunk.css",
+    "main.css": "/portfolio/dark-portfolio-landing/static/css/main.2dc476bf.chunk.css",
     "main.js": "/portfolio/dark-portfolio-landing/static/js/main.bd7c1cb9.chunk.js",
     "main.js.map": "/portfolio/dark-portfolio-landing/static/js/main.bd7c1cb9.chunk.js.map",
     "runtime~main.js": "/portfolio/dark-portfolio-landing/static/js/runtime~main.1fc41fba.js",
@@ -9,10 +9,10 @@
     "static/js/2.9c32ec8d.chunk.js": "/portfolio/dark-portfolio-landing/static/js/2.9c32ec8d.chunk.js",
     "static/js/2.9c32ec8d.chunk.js.map": "/portfolio/dark-portfolio-landing/static/js/2.9c32ec8d.chunk.js.map",
     "index.html": "/portfolio/dark-portfolio-landing/index.html",
-    "precache-manifest.2d48bffe32c3a036434724d21423d8bd.js": "/portfolio/dark-portfolio-landing/precache-manifest.2d48bffe32c3a036434724d21423d8bd.js",
+    "precache-manifest.d305859dcfaf6373a79004f11a18460b.js": "/portfolio/dark-portfolio-landing/precache-manifest.d305859dcfaf6373a79004f11a18460b.js",
     "service-worker.js": "/portfolio/dark-portfolio-landing/service-worker.js",
     "static/css/2.d136459f.chunk.css.map": "/portfolio/dark-portfolio-landing/static/css/2.d136459f.chunk.css.map",
-    "static/css/main.b46f6ad8.chunk.css.map": "/portfolio/dark-portfolio-landing/static/css/main.b46f6ad8.chunk.css.map",
+    "static/css/main.2dc476bf.chunk.css.map": "/portfolio/dark-portfolio-landing/static/css/main.2dc476bf.chunk.css.map",
     "static/media/index.scss": "/portfolio/dark-portfolio-landing/static/media/slick.f97e3bbf.svg"
   }
 }
