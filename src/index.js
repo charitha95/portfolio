@@ -13,6 +13,7 @@ class Root extends Component {
         return (
             <BrowserRouter basename={'/'}>
                 <Switch>
+                    <Route exact path={`${process.env.PUBLIC_URL}/`} component={DarkPortfolioLanding} />
                     <Route exact path={`${process.env.PUBLIC_URL}/dark-portfolio-landing`} component={DarkPortfolioLanding} />
                     <Route path={`${process.env.PUBLIC_URL}/404`} component={error404} />
                     <Route component={error404} />
